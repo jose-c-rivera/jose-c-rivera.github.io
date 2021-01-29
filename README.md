@@ -1,7 +1,6 @@
 ## Welcome to Jose Rivera's page
 
 ![GitHub Logo](https://media-exp1.licdn.com/dms/image/C5603AQGBlWbAClxAKA/profile-displayphoto-shrink_400_400/0/1543073308274?e=1617235200&v=beta&t=BOqPad1ckiU3gOyE_Ct41dG-UcIgjW3p9X08zyrnaHc)
-Format: ![Alt Text](url)
 
 You can use the [editor on GitHub](https://github.com/jose-c-rivera/jose-c-rivera.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
