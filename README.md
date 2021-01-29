@@ -30,9 +30,17 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Arcade Hobby
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jose-c-rivera/jose-c-rivera.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A long past time of mine has been purchasing and restoring classic arcade machines.
+
+One of my favorite projects of the past little while was disassembling and rebuilding a NEO GEO "Big Red" arcade cabinet.
+
+I modified the main PCB with a watch battery to maintain system settings and high scores, as the previous battery had been soldered onto the main circuit board by the original manufacturer.
+
+I also restored the CRT monitor inside the machine by replacing the capacitors on the main neckboard. This resolved all of the ghosting and vertical lines that were a product of old and dying capacitors.
+
+Overall I think it turned out pretty great!
 
 ### Support or Contact
 
