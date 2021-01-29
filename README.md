@@ -1,10 +1,10 @@
-## Welcome to Jose Rivera's page
+## Welcome to my page
 
 ![GitHub Logo](https://media-exp1.licdn.com/dms/image/C5603AQGBlWbAClxAKA/profile-displayphoto-shrink_400_400/0/1543073308274?e=1617235200&v=beta&t=BOqPad1ckiU3gOyE_Ct41dG-UcIgjW3p9X08zyrnaHc)
 
-You can use thhe [editor on GitHub](https://github.com/jose-c-rivera/jose-c-rivera.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Jose Rivera.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a software developer from Toronto, Canada with 2 years of experience working in Enterprise software, and currently looking to make the transition into the video game industry.
 
 ### Markdown
 
